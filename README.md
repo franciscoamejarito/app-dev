@@ -7,3 +7,11 @@ This is my first Repository and
 2. Comedy Movies
 3. Sci-fi Movies
 
+*btw i am happy to be here!*
+
+
+## hello! you want some more what i like?
+**Maybe you Like my**
+- Likes
+- Hobbies
+- Sports
